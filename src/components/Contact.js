@@ -1,6 +1,6 @@
 import React from 'react';
 import './contact.css';
-
+import './ContactList';
 
 function Contact(props) {
     return (
